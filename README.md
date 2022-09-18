@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ana Biacchi Siqueira Cisilotto;
+- 👋 Hi, I’m Ana Biacchi Siqueira;
 - 👀 I’m interested in coding for a better world and filling the gaps of representativity in the DEV comunnity;
 - 🌱 I’m currently learning JAVA, Data Analytics and in general working towards being a DEVops;
 - 💞️ I’m looking to collaborate on projects that could help the LGBTQIA+ community and projects that'll allow me to grow as a Developer;
